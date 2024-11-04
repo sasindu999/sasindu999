@@ -25,37 +25,6 @@
 
 <br>
 
-<!-- Detailed Skill Bars -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&theme=radical&layout=compact" alt="Most Used Languages" />
-</p>
-
-<!-- Alternative Skill Display -->
-```txt
-Frontend Development
-┌────────────────────┐
-HTML5       ██████████████████████░░  90%
-CSS3        █████████████████████░░░  85%
-JavaScript  ████████████████████░░░░  80%
-React       ██████████████████░░░░░░  70%
-└────────────────────┘
-
-Backend Development
-┌────────────────────┐
-Node.js     ████████████████████░░░░  80%
-Express.js  ███████████████████░░░░░  75%
-MongoDB     ██████████████████░░░░░░  70%
-MySQL       ████████████████░░░░░░░░  65%
-└────────────────────┘
-
-Tools & Technologies
-┌────────────────────┐
-Git         █████████████████████░░░  85%
-VS Code     ████████████████████░░░░  80%
-Figma       ██████████████████░░░░░░  70%
-└────────────────────┘
-```
-
 <!-- Minimalist Skill Tags -->
 <p align="center">
   <code>HTML5</code> • 
