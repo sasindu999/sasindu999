@@ -1,82 +1,72 @@
-<!-- Header -->
-# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=sasindu999&color=brightgreen&style=flat-square)
-
-<!-- Introduction Section -->
-## I'm Sasindu 👨‍💻
+# Hi there 👋 I'm Sasindu
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7134F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Security+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
 </div>
 
-<!-- Quick Info -->
-- 😊 I'm a passionate developer
-- 🌱 Currently exploring Web Development and Security
-- 💻 Most used languages: HTML, CSS, JavaScript, PHP, Kotlin
-- 👯 Looking to collaborate on innovative web projects
-- 💬 Ask me about Web Development or any Tech-related stuff
+## 🚀 Skills & Experience
 
-<!-- GitHub Stats Section -->
 <div align="center">
-  <h2>📊 My GitHub Journey</h2>
-  
-  <!-- Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-  <!-- Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<!-- Skills Section -->
-<h2>🚀 Tech Stack</h2>
-
-### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-<!-- Language Distribution -->
-<h2>📊 Most Used Languages</h2>
-
+### Frontend Development
 ```text
-HTML       73.02%   ████████████████████░░░
-Kotlin     10.01%   ███░░░░░░░░░░░░░░░░░░░
-CSS         7.38%   ██░░░░░░░░░░░░░░░░░░░░
-PHP         6.39%   ██░░░░░░░░░░░░░░░░░░░░
-Shell       0.72%   ░░░░░░░░░░░░░░░░░░░░░░
-JavaScript  0.56%   ░░░░░░░░░░░░░░░░░░░░░░
+HTML5        ███████████████████████░░   95%
+CSS3         ██████████████████████░░░   90%
+JavaScript   █████████████████████░░░░   85%
+React        ████████████████████░░░░░   80%
 ```
 
-<!-- GitHub Activity Graph -->
-<h2>📈 Contribution Graph</h2>
+### Backend Development
+```text
+Node.js      █████████████████████░░░░   85%
+Express      ████████████████████░░░░░   80%
+MongoDB      ███████████████████░░░░░░   75%
+SQL          ██████████████████░░░░░░░   70%
+```
 
-[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sasindu999&theme=react-dark)](https://github.com/sasindu999)
+### UI/UX Design
+```text
+Figma        █████████████████████░░░░   85%
+Adobe XD     ████████████████████░░░░░   80%
+Photoshop    ███████████████████░░░░░░   75%
+Illustrator  ██████████████████░░░░░░░   70%
+```
 
-<!-- Contact Section -->
-<h2>📫 Connect With Me</h2>
-
-<div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasindu999)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  
 </div>
 
-<!-- Footer -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
+</p>
+
+## 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
+</p>
+
+## 🛠️ Technologies & Tools
 <div align="center">
   
-### Thanks for visiting! Let's connect and create something amazing together! 😊
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FF00)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobe-xd&logoColor=00FF00)
+
+</div>
+
+## 📫 Connect With Me
+<div align="center">
   
-⭐️ From [sasindu999](https://github.com/sasindu999)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/sasindu999)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=web&logoColor=00FF00)](https://sasindumaleesha.online)
+
+</div>
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sasindu999&color=00FF00&style=flat-square" alt="Profile views" />
 </div>
