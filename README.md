@@ -6,25 +6,12 @@
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
 
-```javascript
-const sasindu = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "HTML", "CSS", "Node.js", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "ui/ux"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Bootstrap", "Tailwind CSS"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            php: ["Laravel"]
-        },
-        databases: ["MongoDB", "MySQL"],
-        design: ["Figma", "Adobe XD", "Photoshop"]
-    }
-};
-```
+- 😊 I'm a passionate developer
+- 🌱 Currently exploring Web Development and Security
+- 💻 Most used languages: HTML, CSS, JavaScript, PHP, Kotlin
+- 👯 Looking to collaborate on innovative web projects
+- 💬 Ask me about Web Development or any Tech-related stuff
+
 
 <h2>🚀 Skills & Experience</h2>
 
