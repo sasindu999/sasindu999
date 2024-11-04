@@ -13,30 +13,69 @@
 - 💬 Ask me about Web Development or any Tech-related stuff
 
 
-<h2>🚀 Skills & Experience</h2>
-
-<h3>Frontend Development</h3>
-<div align="left">
-  <img src="https://skillbar.herokuapp.com/bar?title=HTML5&percentage=95&color=e34f26" alt="HTML5 95%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=CSS3&percentage=90&color=1572b6" alt="CSS3 90%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=JavaScript&percentage=85&color=f7df1e" alt="JavaScript 85%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=React&percentage=80&color=61dafb" alt="React 80%" height="30">
 </div>
 
-<h3>Backend Development</h3>
-<div align="left">
-  <img src="https://skillbar.herokuapp.com/bar?title=Node.js&percentage=85&color=339933" alt="Node.js 85%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=Express&percentage=80&color=000000" alt="Express 80%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=MongoDB&percentage=75&color=47a248" alt="MongoDB 75%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=SQL&percentage=70&color=4479a1" alt="SQL 70%" height="30">
+## 🚀 Skills & Technologies
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+<br>Node.js
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- Animated Skills Section with Pure CSS -->
+<div align="center">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 </div>
 
-<h3>UI/UX Design</h3>
-<div align="left">
-  <img src="https://skillbar.herokuapp.com/bar?title=Figma&percentage=85&color=f24e1e" alt="Figma 85%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=Adobe_XD&percentage=80&color=ff61f6" alt="Adobe XD 80%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=Photoshop&percentage=75&color=31a8ff" alt="Photoshop 75%" height="30">
-  <img src="https://skillbar.herokuapp.com/bar?title=Illustrator&percentage=70&color=ff9a00" alt="Illustrator 70%" height="30">
+<br>
+
+<!-- Animated Skill Bars -->
+<div align="center">
+
+```text
+HTML       ███████████████████░░░   90% 
+CSS        ████████████████░░░░░░   80% 
+JavaScript ██████████████░░░░░░░░   70% 
+React      ████████████░░░░░░░░░░   60% 
+Node.js    ███████████░░░░░░░░░░░   55% 
+MongoDB    ██████████░░░░░░░░░░░░   50% 
+```
+
+</div>
+
 </div>
 
 <h2>📊 GitHub Stats</h2>
@@ -49,28 +88,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&hide_border=true"/>
 </div>
 
-<h2>🛠️ Languages and Tools</h2>
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
-</div>
-
 <h2>🌐 Connect With Me</h2>
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sasindumaleesha.online)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasindu999)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasindu-maleesha-65b5ba334/)
 
 </div>
 
