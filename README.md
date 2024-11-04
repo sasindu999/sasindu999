@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sasindu Maleesha</h1>
+# <div align="center">👨‍💻 Welcome to My GitHub Space! </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical)
+  
+</div>
 
-- 😊 I'm a passionate developer
-- 🌱 Currently exploring Web Development and Security
-- 💻 Most used languages: HTML, CSS, JavaScript, PHP, Kotlin
-- 👯 Looking to collaborate on innovative web projects
-- 💬 Ask me about Web Development or any Tech-related stuff
+## 📊 My Coding Journey
 
+<div align="center">
+  
+| Metric | Count |
+|--------|--------|
+| 🌟 Total Projects | 43 |
+| 🎯 Total Commits (2024) | 37 |
+| 📝 Pull Requests | 0 |
+| 🐛 Issues Solved | 0 |
+| 🤝 Contributions | Currently Active |
 
 </div>
 
@@ -78,33 +87,81 @@ MongoDB    ██████████░░░░░░░░░░░░   
 
 </div>
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasindu999&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
-</div>
+## 📈 GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&hide_border=true"/>
-</div>
-
-<h2>🌐 Connect With Me</h2>
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sasindumaleesha.online)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasindu999)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasindu-maleesha-65b5ba334/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasindu999&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
-<h2>📈 Activity Graph</h2>
-<div align="center">
-  <img alt="Sasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sasindu999&theme=github-compact&hide_border=true&bg_color=0D1117&line=00FF00&point=00FF00&color=FFFFFF"/>
-</div>
+## 🛠️ Most Used Languages
 
----
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasindu999&color=00FF00&style=flat-square" alt="Profile views" />
   
-  <h4>🎯 "Code is poetry." </h4>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical)
+
 </div>
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu999)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasindu999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sasindu999.github.io)
+
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sasindu999&color=brightgreen&style=flat-square)
+
+</div>
+
+<!-- Add this to the bottom of your README.md -->
+<style>
+/* Animation for tech stack icons */
+img[src*="techstack-generator"] {
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+/* Pulsing animation for skill icons */
+div[align="center"] img[height="25"] {
+  transition: transform 0.3s ease;
+  margin: 0 10px;
+}
+
+div[align="center"] img[height="25"]:hover {
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 10px rgba(0,255,0,0.5));
+}
+
+/* Animated skill bars */
+div[align="center"] pre {
+  background: transparent !important;
+  overflow: hidden;
+}
+
+div[align="center"] code {
+  animation: slideIn 2s ease-out forwards;
+  opacity: 0;
+}
+
+@keyframes slideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+</style>
