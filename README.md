@@ -1,44 +1,72 @@
-# Hi there 👋
+# Hi there 👋 I'm Sasindu
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full+Stack+Developer;I+love+coding+and+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
 </div>
 
-## About Me 🚀
-- 💻 Full Stack Developer
-- 🌱 Always learning new technologies
-- 🎯 Goals: Contribute more to Open Source projects
+## 🚀 Skills & Experience
 
-## My Skills 💪
-```javascript
-const skills = {
-    languages: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Kotlin'],
-    tools: ['VS Code', 'Git', 'Android Studio'],
-    learning: ['React', 'Node.js', 'TypeScript']
-};
+<div align="center">
+
+### Frontend Development
+```text
+HTML5        ███████████████████████░░   95%
+CSS3         ██████████████████████░░░   90%
+JavaScript   █████████████████████░░░░   85%
+React        ████████████████████░░░░░   80%
 ```
 
-## GitHub Stats 📊
+### Backend Development
+```text
+Node.js      █████████████████████░░░░   85%
+Express      ████████████████████░░░░░   80%
+MongoDB      ███████████████████░░░░░░   75%
+SQL          ██████████████████░░░░░░░   70%
+```
+
+### UI/UX Design
+```text
+Figma        █████████████████████░░░░   85%
+Adobe XD     ████████████████████░░░░░   80%
+Photoshop    ███████████████████░░░░░░   75%
+Illustrator  ██████████████████░░░░░░░   70%
+```
+
+</div>
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" />
 </p>
 
-## Language Stats 📈
+## 🌟 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF" />
 </p>
 
-## Technologies I Use 🛠️
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+## 🛠️ Technologies & Tools
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF00)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00FF00)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF00)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF00)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00FF00)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobe-xd&logoColor=00FF00)
 
-## Let's Connect 🤝
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/sasindu999)
+</div>
+
+## 📫 Connect With Me
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF00)](https://github.com/sasindu999)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=web&logoColor=00FF00)](https://sasindumaleesha.online)
+
+</div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasindu999&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sasindu999&color=00FF00&style=flat-square" alt="Profile views" />
 </div>
