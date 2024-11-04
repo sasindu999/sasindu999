@@ -1,167 +1,82 @@
-# <div align="center">👨‍💻 Welcome to My GitHub Space! </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical)
-  
-</div>
-
-## 📊 My Coding Journey
-
-<div align="center">
-  
-| Metric | Count |
-|--------|--------|
-| 🌟 Total Projects | 43 |
-| 🎯 Total Commits (2024) | 37 |
-| 📝 Pull Requests | 0 |
-| 🐛 Issues Solved | 0 |
-| 🤝 Contributions | Currently Active |
-
-</div>
-
-## 🚀 Skills & Technologies
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-<br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-<br>Nginx
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-<br>Node.js
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Animated Skills Section with Pure CSS -->
-<div align="center">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</div>
-
-<br>
-
-<!-- Animated Skill Bars -->
-<div align="center">
-
-```text
-HTML       ███████████████████░░░   90% 
-CSS        ████████████████░░░░░░   80% 
-JavaScript ██████████████░░░░░░░░   70% 
-React      ████████████░░░░░░░░░░   60% 
-Node.js    ███████████░░░░░░░░░░░   55% 
-MongoDB    ██████████░░░░░░░░░░░░   50% 
-```
-
-</div>
-
-</div>
-
-## 📈 GitHub Activity
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasindu999&theme=radical)](https://git.io/streak-stats)
-
-</div>
-
-## 🛠️ Most Used Languages
-
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical)
-
-</div>
-
-## 🔗 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu999)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasindu999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sasindu999.github.io)
-
-</div>
+<!-- Header -->
+# Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 <!-- Profile Views Counter -->
-<div align="center">
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=sasindu999&color=brightgreen&style=flat-square)
 
+<!-- Introduction Section -->
+## I'm Sasindu 👨‍💻
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7134F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Security+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-<!-- Add this to the bottom of your README.md -->
-<style>
-/* Animation for tech stack icons */
-img[src*="techstack-generator"] {
-  animation: bounce 2s infinite;
-}
+<!-- Quick Info -->
+- 😊 I'm a passionate developer
+- 🌱 Currently exploring Web Development and Security
+- 💻 Most used languages: HTML, CSS, JavaScript, PHP, Kotlin
+- 👯 Looking to collaborate on innovative web projects
+- 💬 Ask me about Web Development or any Tech-related stuff
 
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
+<!-- GitHub Stats Section -->
+<div align="center">
+  <h2>📊 My GitHub Journey</h2>
+  
+  <!-- Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  
+  <!-- Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
-/* Pulsing animation for skill icons */
-div[align="center"] img[height="25"] {
-  transition: transform 0.3s ease;
-  margin: 0 10px;
-}
+<!-- Skills Section -->
+<h2>🚀 Tech Stack</h2>
 
-div[align="center"] img[height="25"]:hover {
-  transform: scale(1.2);
-  filter: drop-shadow(0 0 10px rgba(0,255,0,0.5));
-}
+### Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
-/* Animated skill bars */
-div[align="center"] pre {
-  background: transparent !important;
-  overflow: hidden;
-}
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-div[align="center"] code {
-  animation: slideIn 2s ease-out forwards;
-  opacity: 0;
-}
+<!-- Language Distribution -->
+<h2>📊 Most Used Languages</h2>
 
-@keyframes slideIn {
-  from {
-    transform: translateX(-100%);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-</style>
+```text
+HTML       73.02%   ████████████████████░░░
+Kotlin     10.01%   ███░░░░░░░░░░░░░░░░░░░
+CSS         7.38%   ██░░░░░░░░░░░░░░░░░░░░
+PHP         6.39%   ██░░░░░░░░░░░░░░░░░░░░
+Shell       0.72%   ░░░░░░░░░░░░░░░░░░░░░░
+JavaScript  0.56%   ░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<!-- GitHub Activity Graph -->
+<h2>📈 Contribution Graph</h2>
+
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sasindu999&theme=react-dark)](https://github.com/sasindu999)
+
+<!-- Contact Section -->
+<h2>📫 Connect With Me</h2>
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasindu999)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+### Thanks for visiting! Let's connect and create something amazing together! 😊
+  
+⭐️ From [sasindu999](https://github.com/sasindu999)
+</div>
