@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sasindu Maleesha</h1>
+# <div align="center">👨‍💻 Welcome to My GitHub Space! </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me</h2>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical)
+  
+</div>
 
-- 😊 I'm a passionate developer
-- 🌱 Currently exploring Web Development and Security
-- 💻 Most used languages: HTML, CSS, JavaScript, PHP, Kotlin
-- 👯 Looking to collaborate on innovative web projects
-- 💬 Ask me about Web Development or any Tech-related stuff
+## 📊 My Coding Journey
 
+<div align="center">
+  
+| Metric | Count |
+|--------|--------|
+| 🌟 Total Projects | 43 |
+| 🎯 Total Commits (2024) | 37 |
+| 📝 Pull Requests | 0 |
+| 🐛 Issues Solved | 0 |
+| 🤝 Contributions | Currently Active |
 
 </div>
 
@@ -19,48 +28,40 @@
 
 <div align="center">
 
+<!-- Updated Tech Stack Section with Fixed Icons -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&theme=dark" />
+</p>
+
+<!-- Detailed Skills with Animations -->
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
 <br>React
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
 <br>JavaScript
 </td>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 <br>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
-<br>Nginx
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-<br>GitHub
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
 <br>Node.js
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
+<br>Express.js
+</td>
 </tr>
 </table>
-
-<br>
-
-<!-- Animated Skills Section with Pure CSS -->
-<div align="center">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-</div>
-
-<br>
 
 <!-- Animated Skill Bars -->
 <div align="center">
@@ -78,33 +79,51 @@ MongoDB    ██████████░░░░░░░░░░░░   
 
 </div>
 
-<h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sasindu999&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
-</div>
+## 📈 GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasindu999&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&hide_border=true"/>
-</div>
-
-<h2>🌐 Connect With Me</h2>
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://sasindumaleesha.online)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sasindu999)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sasindu-maleesha-65b5ba334/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasindu999&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
-<h2>📈 Activity Graph</h2>
-<div align="center">
-  <img alt="Sasindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sasindu999&theme=github-compact&hide_border=true&bg_color=0D1117&line=00FF00&point=00FF00&color=FFFFFF"/>
-</div>
+## 🛠️ Most Used Languages
 
----
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sasindu999&color=00FF00&style=flat-square" alt="Profile views" />
   
-  <h4>🎯 "Code is poetry." </h4>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasindu999&layout=compact&theme=radical)
+
+</div>
+
+## 🎯 Current Focus
+
+```text
+📚 Learning Advanced React Patterns
+🔨 Building Full-Stack Applications
+🎯 Improving System Design Skills
+🤝 Contributing to Open Source Projects
+```
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasindu999)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasindu999)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sasindu999.github.io)
+
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sasindu999&color=brightgreen&style=flat-square)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
 </div>
