@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&style=flat-square)
 
 <!-- Introduction Section -->
-## I'm [Your Name] 👨‍💻
+## I'm [Sasindu Maleesha] 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7134F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Security+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
